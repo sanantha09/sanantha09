@@ -20,4 +20,12 @@ University of Derby Badminton Scholar🏅 <br>
 
 <img align="left" alt="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-<img align="left" alt="Microsoft" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<br><br>
+
+<img align="left" alt="Visual Studio Code" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<img align="left" alt="Unity" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+
+<img align="left" alt="Microsoft Access" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" />
+
+
