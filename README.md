@@ -1,6 +1,6 @@
 # My name is Sri Pradeeptaa Anantha😊
 
-I am curently a second year student progressing into my final year of study🎓 <br>
+I am curently a undegraduate student in my final year of study🎓 <br>
 University of Derby Badminton Scholar🏅 <br>
 
 ---
