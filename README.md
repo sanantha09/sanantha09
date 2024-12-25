@@ -4,7 +4,7 @@ I am curently a undegraduate student in my final year of study🎓 <br>
 University of Derby Badminton Scholar🏅 <br>
 
 ---
-Languages and Tools
+Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -21,7 +21,8 @@ Languages and Tools
 ![MicrosoftWord](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 <br/>
 
-Platforms
+---
+Platforms:
 
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
